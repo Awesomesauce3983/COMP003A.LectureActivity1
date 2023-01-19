@@ -17,8 +17,8 @@ namespace COMP003A.LectureActivity1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!"); // single-line comment example two
-            Console.WriteLine("It's a string!");
-            Console.WriteLine("It's me Ana! ^_^");
+            Console.WriteLine("It's a string!!");
+            Console.WriteLine("It's me Ana!!! ^_^");
         }
     }
 }
